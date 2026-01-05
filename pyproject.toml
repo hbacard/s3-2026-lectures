@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Lectures material for the S3 School 2026"
 authors = [{ name = "S3 School" }]
 readme = "README.md"
+license = "MIT"
 requires-python = ">=3.10"
 
 [dependencies]
