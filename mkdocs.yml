@@ -13,7 +13,7 @@ theme:
     - navigation.top
     - content.code.copy
     - content.code.select
-    - content.code.annotate 
+    - content.code.annotate
 
 nav:
   - Home: index.md
@@ -54,6 +54,8 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - attr_list
+  - md_in_html
   - pymdownx.superfences
 
 # use "pycon" for code blocks showing python command line, but won't copy >>> and ... or output
