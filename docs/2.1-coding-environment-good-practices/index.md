@@ -8,4 +8,4 @@ This lecture covers how to set-up a reproducible environment for software projec
 ## Resources
 - [Coding Environment and IDE](2.1.1-coding-environment-IDE.md)
 - [Good Code Practice](2.1.2-good-code-practices.md)
-- [Project Structure](2.1.3-project-structure.md)
+- [Project Structure](2.1.3-project-structure-packaging.md)
