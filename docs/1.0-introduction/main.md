@@ -5,9 +5,19 @@ Teachers: Romain David, Thomas Vuillaume, Azza Gamgami
 ## Overview
 - Registration, orientation, planning overview
 - Logistics for the week and expectations
-- OSCARS and EVERSE introduction
-- FAIR principles, EVERSE resources
-
+- OSCARS and the FAIR principles introduction
+- EVERSE introduction
 
 ## Resources
-- [Welcome Address slides](https://docs.google.com/presentation/d/16XB_6wZ2UOUFIcrxyVnxpEhnsGT0c8ifBJcukXtnOqg/edit?usp=sharing)
+
+### Welcome Address 
+
+<iframe src="https://indico.in2p3.fr/event/36319/contributions/161819/attachments/99168/152993/welcome.pdf" width="100%" height="600px"></iframe>
+
+### OSCARS
+
+> Slides to be added 
+
+### EVERSE 
+
+<iframe src="https://indico.in2p3.fr/event/36319/contributions/161821/attachments/99169/152994/20260114_S3_school_EVERSE_Overview.pdf" width="100%" height="600px"></iframe>

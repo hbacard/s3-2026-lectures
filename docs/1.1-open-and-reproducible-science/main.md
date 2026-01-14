@@ -9,3 +9,5 @@ This talk explores the essential transition from "black box" scripts to transpar
 
 ## Resources
 - slides: [https://indico.in2p3.fr/event/36319/contributions/161823/]( https://indico.in2p3.fr/event/36319/contributions/161823/)
+
+<iframe src="https://indico.in2p3.fr/event/36319/contributions/161823/attachments/99166/152991/SO_Repro_CAR.pdf" width="100%" height="600px"></iframe>
