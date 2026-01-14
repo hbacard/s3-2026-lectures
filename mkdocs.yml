@@ -5,6 +5,22 @@ repo_url: https://github.com/s3-school/s3-2026-lectures/
 site_author: S3 School
 theme:
   name: material
+  logo: assests/img/S3-school_LOGO_square.png
+  favicon: assests/img/S3-school_LOGO_square.png
+  palette:
+    - scheme: default
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - navigation.expand
     - navigation.indexes
