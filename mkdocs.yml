@@ -1,11 +1,11 @@
-site_name: S3 2026 Lectures
-site_description: Course material for S3 School 2026 sessions
+site_name: S³ School 2026 Lectures
+site_description: Course material for S³ School 2026 sessions
 site_url: https://s3-school.github.io/s3-2026-lectures/
 repo_url: https://github.com/s3-school/s3-2026-lectures/
-site_author: S3 School
+site_author: Teachers of the S³ School 2026
 theme:
   name: material
-  logo: assests/img/S3-school_favicon.png
+  logo: assests/img/S3-school_LOGO_square.png
   favicon: assests/img/S3-school_favicon.png
   palette:
     - scheme: default
