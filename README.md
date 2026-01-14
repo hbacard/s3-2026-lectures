@@ -28,3 +28,9 @@
 - [Software quality tools](docs/6.1-quality-tools/)
 - [Publication: Zenodo & SWH](docs/6.2-publication/)
 
+
+## Instructions for teachers
+
+You may add a directory with extra material for your lecture under `docs/` and link it in the relevant lecture's README.md.
+
+See [INSTALL.md](INSTALL.md) for instructions on how to set up the environment locally.
