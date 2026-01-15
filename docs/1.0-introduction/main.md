@@ -17,8 +17,8 @@ Teachers: Romain David, Thomas Vuillaume, Azza Gamgami
 [Download the slides](https://indico.in2p3.fr/event/36319/contributions/161819/attachments/99168/152993/welcome.pdf)
 
 ### OSCARS
-
-> Slides to be added 
+<iframe src="https://indico.in2p3.fr/event/36319/contributions/161820/attachments/99177/153009/OSCARS_Presentation%20S3%20School%20(1).pdf" width="100%" height="600px"></iframe>
+[Download the slides](https://indico.in2p3.fr/event/36319/contributions/161820/attachments/99177/153009/OSCARS_Presentation%20S3%20School%20(1).pdf)
 
 ### EVERSE 
 
